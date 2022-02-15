@@ -1,50 +1,52 @@
 const products = [
     {
       id: 1,
-      name: 'Escuadra',
-      price: 323.45,
-      image: 'https://upload.wikimedia.org/wikipedia/commons/3/3c/Squadra_45.jpg'
+      name: 'God of War - Ragnarok',
+      price: 500,
+      image: 'https://pivigames.blog/wp-content/uploads/2022/01/God-of-War-Juego-PC-PiviGames.jpg'
     },
     {
       id: 2,
-      name: 'Calculadora',
-      price: 234.56,
-      image: 'https://micalculadoracientifica.com/wp-content/uploads/2021/01/TI-Nspire-CX-Amazon.jpg'
+      name: 'Monster Hunter World - Iceborne',
+      price: 450,
+      image: 'https://pivigames.blog/wp-content/uploads/2019/03/Monster-Hunter-World-Iceborne-Juego.jpg'
     },
     {
       id: 3,
-      name: 'Globo Terráqueo',
-      price: 45.67,
-      image: 'https://panamericana.vteximg.com.br/arquivos/ids/256800-600-690/globo-terraqueo-politico-40-cm-7701016736787.jpg?v=636381897120030000'
+      name: 'Digimon Story Cyber Sleuth - Complete Edition',
+      price: 100,
+      image: 'https://pivigames.blog/wp-content/uploads/2019/10/Digimon-Story-Cyber-Sleuth-Complete-Edition-Free-Download-min.jpg'
     },
     {
       id: 4,
-      name: 'Paleta Pintura',
-      price: 456.78,
-      image: 'https://www.botiga.com.uy/media/catalog/product/cache/1/image/600x600/0dc2d03fe217f8c83829496872af24a0/p/a/paleta_pintora_tempera_infantozzi_materiales.jpg'
+      name: 'Shadow of the Tomb Raider - Definitive Edition',
+      price: 300,
+      image: 'https://pivigames.blog/wp-content/uploads/2019/06/Shadow-of-the-Tomb-Raider-Definitive-Edition-PiviGames.jpg'
     },
     {
       id: 5,
-      name: 'Reloj',
-      price: 67.89,
-      image: 'https://us.123rf.com/450wm/monticello/monticello1911/monticello191100379/135078958-reloj-de-pared-aislado-sobre-fondo-blanco-nueve-.jpg?ver=6'
+      name: 'Phasmophobia - Cursed Possesions',
+      price: 300,
+      image: 'https://pivigames.blog/wp-content/uploads/2021/12/Phasmophobia-Ultima-Version-PiviGames.jpg'
     },
     {
       id: 6,
-      name: 'Agenda',
-      price: 78.90,
-      image: 'https://cloudfront-eu-central-1.images.arcpublishing.com/prisa/AGYRBXKZQH6C4KYQU6IGD2BDIE.jpg'
+      name: 'Spore - Complete Pack',
+      price: 200,
+      image: 'https://pivigames.blog/wp-content/uploads/2017/06/507.jpg'
     },
     {
       id: 7,
-      name: 'Escudo caballero templario',
-      price: 456.78,
-      image: 'https://www.tienda-medieval.com/blog/wp-content/uploads/2010/09/escudo_templario1.jpg'
+      name: 'Age of Mythology - Extended Edition',
+      price: 400,
+      image: 'https://pivigames.blog/wp-content/uploads/2017/11/Age-of-Mythology-Extended-Edition.jpg'
     },
     {
       id: 8,
-      name: 'Escorpión de juguete',
-      price: 1000.87,
-      image: 'https://sc04.alicdn.com/kf/H5794a667d8844b0592a7a76e8724842bt.jpg'
+      name: 'Age of Empires III - Definitive Edition (Mexico Civilization)',
+      price: 500,
+      image: 'https://pivigames.blog/wp-content/uploads/2021/08/Age-Of-Empire-III-Mexico-Civilization-PiviGames.jpg'
     },
   ];
+
+  module.exports = {products};
